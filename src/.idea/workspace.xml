@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47af711c-69ee-468a-9c72-9057a08a27b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/srpfacadelab/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srpfacadelab/DamageHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srpfacadelab/InventoryHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srpfacadelab/PlayerFacade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srpfacadelab/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/srpfacadelab/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srpfacadelab/RpgPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/srpfacadelab/RpgPlayer.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WS0guXDtGaYUhqNgKs1W2Zt4Ns" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47af711c-69ee-468a-9c72-9057a08a27b2" name="Default Changelist" comment="" />
+      <created>1579127802907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579127802907</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="404" y="176" key="#Project_Structure" timestamp="1579128528695">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state x="404" y="176" key="#Project_Structure/0.23.1680.973@0.23.1680.973" timestamp="1579128528695" />
+    <state x="725" y="390" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579127963682">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state x="725" y="390" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1680.973@0.23.1680.973" timestamp="1579127963682" />
+    <state x="528" y="326" key="com.intellij.ide.util.TipDialog" timestamp="1579127807985">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state x="528" y="326" key="com.intellij.ide.util.TipDialog/0.23.1680.973@0.23.1680.973" timestamp="1579127807985" />
+    <state x="469" y="246" width="670" height="676" key="search.everywhere.popup" timestamp="1579132525422">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="469" y="246" width="670" height="676" key="search.everywhere.popup/0.23.1680.974@0.23.1680.974" timestamp="1579132525422" />
+  </component>
+</project>
